@@ -1,2 +1,2 @@
 https://github.com/pkgforge-community/ivan-hc_Hypnotix-appimage/releases/download/20260524-220429-20260525T023748/Hypnotix_5.6-2-archimage5.0-x86_64.AppImage
-Fri May 29 02:32:54 UTC 2026
+Sat May 30 02:27:10 UTC 2026
